@@ -1,0 +1,44 @@
+[ 
+ {
+    "id": 1,
+    "nombre": "Truemade Whey Protein",
+    "cantidad": 1,
+    "precio": 5199,
+    "img": "./imagenes/ena_whey_protein_true_made.jpg"
+ },
+ {
+    "id": 2,
+    "nombre": "Star Nutrition Creatina",
+    "cantidad": 1,
+    "precio": 9599,
+    "img": "./imagenes/D_NQ_NP_705680-MLA48462687556_122021-V.jpg"
+ },
+ {
+    "id": 3,
+    "nombre": "Optimun Nutrition Pre-Workout",
+    "cantidad": 1,
+    "precio": 4899,
+    "img": "./imagenes/1640689707-510Zd7ktidS._SL500_.jpg"
+ },
+ {
+    "id": 4,
+    "nombre": "MIR Tiraband (Media tension)",
+    "cantidad": 1,
+    "precio": 1200,
+    "img": "./imagenes/3310_800.jpg"
+ },
+ {
+    "id": 5,
+    "nombre": "BalboaFit Strap reforzados",
+    "cantidad": 1,
+    "precio": 2550,
+    "img": "./imagenes/29301_800.jpg"
+ },
+ {
+    "id": 6,
+    "nombre": "BalboaFit Cinturon de fuerza lumbar",
+    "cantidad": 1,
+    "precio": 8999,
+    "img": "./imagenes/2918_800.jpg"
+ }
+]
